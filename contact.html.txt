@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact AyurGeneX</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <img src="assets/logo.png" alt="AyurGeneX Logo" width="200">
+    <h1>Contact AyurGeneX</h1>
+    <p>Fuel Your Flame, Decode Your DNA</p>
+  </header>
+  <main>
+    <h2>Get in Touch</h2>
+    <p>If you have questions or want to learn more about AyurGeneX, please feel free to reach out!</p>
+    <form action="mailto:ayurgenex@gmail.com" method="post" enctype="text/plain">
+      <label for="name">Name:</label><br>
+      <input type="text" id="name" name="name" required><br><br>
+      
+      <label for="email">Email:</label><br>
+      <input type="email" id="email" name="email" required><br><br>
+      
+      <label for="message">Message:</label><br>
+      <textarea id="message" name="message" rows="6" required></textarea><br><br>
+      
+      <input type="submit" value="Send">
+      <input type="reset" value="Reset">
+    </form>
+  </main>
+  <footer>
+    <p>Contact: ayurgenex@gmail.com</p>
+  </footer>
+</body>
+</html>

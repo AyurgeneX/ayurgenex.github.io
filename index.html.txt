@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AyurGeneX</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <img src="assets/logo.png" alt="AyurGeneX Logo" width="200">
+    <h1>AyurGeneX</h1>
+    <p>Fuel Your Flame, Decode Your DNA</p>
+  </header>
+  <main>
+    <h2>Welcome to AyurGeneX</h2>
+    <p>Personalized, evidence-based Ayurveda meets genomics.</p>
+  </main>
+  <footer>
+    <p>Contact: hello@ayurgenex.com</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About AyurGeneX</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <img src="assets/logo.png" alt="AyurGeneX Logo" width="200">
+    <h1>About AyurGeneX</h1>
+    <p>Fuel Your Flame, Decode Your DNA</p>
+  </header>
+  <main>
+    <h2>Our Story</h2>
+    <p>AyurGeneX was founded with the vision to bridge the ancient wisdom of Ayurveda and the revolutionary science of genomics.</p>
+    <p>Our mission is to empower individuals to unlock their unique health potential through personalized, evidence-based Ayurvedic guidance rooted in genetic insights.</p>
+    <p>With a commitment to authenticity, innovation, and trust, AyurGeneX strives to lead the future of integrative wellness.</p>
+  </main>
+  <footer>
+    <p>Contact: ayurgenex@gmail.com</p>
+  </footer>
+</body>
+</html>
